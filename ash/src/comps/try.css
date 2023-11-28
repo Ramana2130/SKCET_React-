@@ -1,0 +1,67 @@
+.login{
+    /* background-image: url('your-background-image.jpg'); */
+    background-image: url('https://images.pexels.com/photos/2882566/pexels-photo-2882566.jpeg?auto=compress&cs=tinysrgb&w=600');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    height: 100vh;
+    /* background-color: rgba(255,255,255,0.8); */
+}
+/* .reg{
+    background-image: url('https://w0.peakpx.com/wallpaper/678/338/HD-wallpaper-sports-other-baseball-basketball-collage-football-hockey-sport.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+    height: 100vh;
+} */
+.hi{
+    height: 100vh;
+    background-image: url('https://images.pexels.com/photos/196652/pexels-photo-196652.jpeg?auto=compress&cs=tinysrgb&w=600');
+    /* background-color: white; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150vh;
+    background-position: fixed;
+}
+.para{
+    padding: 30px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-color: grey;
+    background-image: url('https://assets-v2.lottiefiles.com/a/e1a6f360-1181-11ee-8a61-abd4d27ddc59/V0f19Ki6VT.png');
+    height: 700px;
+    color: black;
+    margin-bottom: 10px;
+}
+
+/* .bg{
+    text-align: center;
+} */
+.head{
+    display: flex;
+}
+.total
+{
+    background-image: url('https://images.pexels.com/photos/6101974/pexels-photo-6101974.jpeg?auto=compress&cs=tinysrgb&w=600');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* color: white; */
+    height: 100vh; 
+    width: 100vw;
+}
+.rt{
+    background-image: url('https://images.pexels.com/photos/5691697/pexels-photo-5691697.jpeg?auto=compress&cs=tinysrgb&w=600');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh; 
+    width: 100vw;
+}
+.hey{
+    background-image: url('https://images.pexels.com/photos/5691697/pexels-photo-5691697.jpeg?auto=compress&cs=tinysrgb&w=600');
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
